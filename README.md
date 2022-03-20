@@ -6,5 +6,5 @@
 ![alt text](../main/Photos/poza2.png)
 ![alt text](../main/Photos/poza3.png)
 ![alt text](../main/Photos/poza4.png)
-![alt text](../main/Photos/poza5 Stop.png)
-![alt text](../main/Photos/poza6 afterStop.png)
+![alt text](../main/Photos/poza5Stop.png)
+![alt text](../main/Photos/poza6afterStop.png)
